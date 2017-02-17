@@ -68,6 +68,7 @@
 ## Transitions
 * [Preview-Transition](https://github.com/Ramotion/Preview-Transition) - PreviewTransition is a simple preview gallery controller
 * [Expanding Collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
+* [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
 
 
 
