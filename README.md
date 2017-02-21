@@ -27,6 +27,7 @@
 
 ### Tools
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Edit and drag elements on the UI meanwhile the app is running
+* [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
