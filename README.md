@@ -24,6 +24,7 @@
 
 ### Effects
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
+* [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift
 
 ### Tools
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Edit and drag elements on the UI meanwhile the app is running
