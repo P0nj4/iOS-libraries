@@ -30,6 +30,7 @@
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Edit and drag elements on the UI meanwhile the app is running
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [swift-timeago](https://github.com/zemirco/swift-timeago) - Relative time / time ago for Swift
+* [NextLevel](https://github.com/NextLevel/NextLevel) - All kind of camera capture ways.
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
