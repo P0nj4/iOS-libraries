@@ -54,6 +54,7 @@
 * [ScrollableGraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
 * [ScalingCarousel - MAP](https://github.com/superpeteblaze/ScalingCarousel) - ScalingCarousel provides a simple carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled.
+* [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
