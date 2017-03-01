@@ -34,6 +34,7 @@
 * [swift-timeago](https://github.com/zemirco/swift-timeago) - Relative time / time ago for Swift
 * [NextLevel](https://github.com/NextLevel/NextLevel) - All kind of camera capture ways.
 * [AssistantKit]https://github.com/anatoliyv/AssistantKit - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+* [AlertHelperKit](https://github.com/keygx/AlertHelperKit) - UIAlertController helper library in Swift
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
