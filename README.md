@@ -55,6 +55,7 @@
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
 * [ScalingCarousel - MAP](https://github.com/superpeteblaze/ScalingCarousel) - ScalingCarousel provides a simple carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled.
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
+* [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
