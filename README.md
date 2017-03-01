@@ -21,11 +21,11 @@
 * [Cartography](https://github.com/robb/Cartography) - Set up your Auto Layout constraints in declarative code and without any stringly typing!
 * [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
-* <img src="https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif" height="200"> [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
+* [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
 
 
 ### Effects
-*  <img src="https://github.com/inFullMobile/WobbleView/raw/master/wobble.gif?raw=true" height="200"> [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
+* [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
 * [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift
 
 ### Tools
