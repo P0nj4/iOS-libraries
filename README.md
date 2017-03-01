@@ -33,6 +33,7 @@
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [swift-timeago](https://github.com/zemirco/swift-timeago) - Relative time / time ago for Swift
 * [NextLevel](https://github.com/NextLevel/NextLevel) - All kind of camera capture ways.
+* [AssistantKit]https://github.com/anatoliyv/AssistantKit - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
