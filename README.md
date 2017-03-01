@@ -58,6 +58,7 @@
 * [ScalingCarousel - MAP](https://github.com/superpeteblaze/ScalingCarousel) - ScalingCarousel provides a simple carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled.
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
+* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
@@ -67,7 +68,8 @@
 * [Presentation](https://github.com/hyperoslo/Presentation) - Animated onboarding tutorial
 
 ### Animations
-- [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
+* [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
+* [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 
 ### Tutorials
 * [CustomizePullToRefresh](https://github.com/Yalantis/PullToRefresh) - Steps to make your own Pull To Refresh
