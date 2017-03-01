@@ -21,7 +21,7 @@
 * [Cartography](https://github.com/robb/Cartography) - Set up your Auto Layout constraints in declarative code and without any stringly typing!
 * [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
-* <img src="https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif" height="100"> [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
+* <img src="https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif" height="200"> [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
 
 
 ### Effects
