@@ -22,7 +22,7 @@
 * [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
-![Image of Twitter_Post](https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif)
+![Image of Twitter_Post](https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif =50x)
 
 ### Effects
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
