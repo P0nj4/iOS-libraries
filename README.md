@@ -38,6 +38,8 @@
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image
 * [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
+* [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App
+* [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in swift
 
 ### Color Tools
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift
@@ -85,6 +87,8 @@
 
 ## Code Frameworks
 * [Dotzu](https://github.com/remirobert/Dotzu) - In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
+* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime Dynamic localization translation delivery system for iOS and Mac OSX in Swift. Create and update texts from localization.com without needing to recompile or redeploy. Cocapod for iOS devices (iPad, iPhone, iPod Touch and Mac) https://www.localizationkit.com/app/
+* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
 
 
 [back to top](#readme)
