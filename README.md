@@ -22,6 +22,7 @@
 * [Neon](https://github.com/mamaral/Neon) - A powerful Swift programmatic UI layout framework
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
+![](https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif =100x20)
 ![Image of Twitter_Post](https://github.com/csontosgabor/Twitter_Post/raw/master/demo.gif =100x20)
 
 ### Effects
