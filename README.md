@@ -24,13 +24,18 @@
 
 ### Effects
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
+* [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift
 
 ### Tools
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Edit and drag elements on the UI meanwhile the app is running
+* [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
+* [swift-timeago](https://github.com/zemirco/swift-timeago) - Relative time / time ago for Swift
+* [NextLevel](https://github.com/NextLevel/NextLevel) - All kind of camera capture ways.
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image
+* [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 
 ### Color Tools
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift
@@ -48,6 +53,8 @@
 * [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX!
 * [ScrollableGraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
+* [ScalingCarousel - MAP](https://github.com/superpeteblaze/ScalingCarousel) - ScalingCarousel provides a simple carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled.
+* [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
@@ -67,6 +74,7 @@
 ## Transitions
 * [Preview-Transition](https://github.com/Ramotion/Preview-Transition) - PreviewTransition is a simple preview gallery controller
 * [Expanding Collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
+* [FlipTheBlinds](https://github.com/joelconnects/FlipTheBlinds) - FlipTheBlinds is an animation transition that creates a venetian blinds domino effect.
 
 
 
