@@ -25,7 +25,7 @@
 
 
 ### Effects
-* [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
+*  <img src="https://github.com/inFullMobile/WobbleView/raw/master/wobble.gif?raw=true" height="200"> [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
 * [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift
 
 ### Tools
