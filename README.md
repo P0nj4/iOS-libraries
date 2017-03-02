@@ -63,6 +63,7 @@
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
+* [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
