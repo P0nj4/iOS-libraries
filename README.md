@@ -65,14 +65,21 @@
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
 * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
-#### UICollections
-  * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
-#### UITableView
-  * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
+
+### UICollections Components
+* [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
+* [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
+  
+### UITableView Components
+* [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
+* [ElongationPreview](https://github.com/Ramotion/elongation-preview) - is an elegant push-pop style view controller
 
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
+* [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - A lightweight, easy to use, Side Drawer Navigation Controller
+* [JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer) - An easy to use floating drawer view controller.
+* [RHSideButtons](https://github.com/robertherdzik/RHSideButtons) - Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS
 
 ### OnBoarding
 * [Instructions](https://github.com/ephread/Instructions) - Add customizable coach marks into your iOS project.
