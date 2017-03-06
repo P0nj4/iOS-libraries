@@ -63,13 +63,12 @@
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
-* UICollections
+* [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
+* [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
+#### UICollections
   * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
-* UITableView
+#### UITableView
   * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
- * Others
-  * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
-
 
 
 ### Menus
@@ -78,6 +77,7 @@
 ### OnBoarding
 * [Instructions](https://github.com/ephread/Instructions) - Add customizable coach marks into your iOS project.
 * [Presentation](https://github.com/hyperoslo/Presentation) - Animated onboarding tutorial
+* [JazzHands](https://github.com/IFTTT/JazzHands) - A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros
 
 ### Animations
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
@@ -100,6 +100,7 @@
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime Dynamic localization translation delivery system for iOS and Mac OSX in Swift. Create and update texts from localization.com without needing to recompile or redeploy. Cocapod for iOS devices (iPad, iPhone, iPod Touch and Mac) https://www.localizationkit.com/app/
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
 * [Blue pill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
+* [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
 
 
 [back to top](#readme)
