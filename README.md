@@ -70,12 +70,12 @@
 * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
   
-### UITableView Components
+#### UITableView Components
 * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - is an elegant push-pop style view controller
 * [RATreeView](https://github.com/Augustyniak/RATreeView) - Library providing easy-to-use interface for displaying tree structures on iOS and tvOS
 
-### Tabs 
+#### Tabs 
 * [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - This is a Review posting app that let user find interesting places near them
 
@@ -86,18 +86,22 @@
 * [JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer) - An easy to use floating drawer view controller.
 * [RHSideButtons](https://github.com/robertherdzik/RHSideButtons) - Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS
 
+
 ### OnBoarding
 * [Instructions](https://github.com/ephread/Instructions) - Add customizable coach marks into your iOS project.
 * [Presentation](https://github.com/hyperoslo/Presentation) - Animated onboarding tutorial
 * [JazzHands](https://github.com/IFTTT/JazzHands) - A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros
 
+
 ### Animations
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 
+
 ### Tutorials
 * [CustomizePullToRefresh](https://github.com/Yalantis/PullToRefresh) - Steps to make your own Pull To Refresh
-
+* [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
+* [A GUIDE TO XCODE UI TEST](https://blog.metova.com/guide-xcode-ui-test/)
 
 
 ## Transitions
