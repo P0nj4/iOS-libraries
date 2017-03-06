@@ -66,13 +66,18 @@
 * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
 
-### UICollections Components
+#### UICollections Components
 * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
   
 ### UITableView Components
 * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - is an elegant push-pop style view controller
+* [RATreeView](https://github.com/Augustyniak/RATreeView) - Library providing easy-to-use interface for displaying tree structures on iOS and tvOS
+
+### Tabs 
+* [Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - This is a Review posting app that let user find interesting places near them
 
 
 ### Menus
