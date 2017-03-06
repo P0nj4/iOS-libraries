@@ -33,7 +33,7 @@
 * [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
 * [swift-timeago](https://github.com/zemirco/swift-timeago) - Relative time / time ago for Swift
 * [NextLevel](https://github.com/NextLevel/NextLevel) - All kind of camera capture ways.
-* [AssistantKit]https://github.com/anatoliyv/AssistantKit - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+* [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 * [AlertHelperKit](https://github.com/keygx/AlertHelperKit) - UIAlertController helper library in Swift
 
 ### Image Tools
@@ -52,7 +52,6 @@
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Custom action sheet controller
 * [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that is used to create beautiful applications
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
-* [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View. Written in Swift
@@ -64,6 +63,14 @@
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
+* UICollections
+  * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
+* UITableView
+  * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
+ * Others
+  * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
+
+
 
 ### Menus
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - CircleMenu is a simple, elegant menu with a circular layout
@@ -92,6 +99,7 @@
 * [Dotzu](https://github.com/remirobert/Dotzu) - In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime Dynamic localization translation delivery system for iOS and Mac OSX in Swift. Create and update texts from localization.com without needing to recompile or redeploy. Cocapod for iOS devices (iPad, iPhone, iPod Touch and Mac) https://www.localizationkit.com/app/
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
+* [Blue pill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 
 
 [back to top](#readme)
