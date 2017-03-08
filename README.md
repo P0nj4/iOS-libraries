@@ -119,6 +119,12 @@
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design
 * [MRFlipTransition](https://github.com/mrcrow/MRFlipTransition) - A custom transition that works like the one in Facebook's Paper
 * [CBStoreHouseTransition](https://github.com/coolbeet/CBStoreHouseTransition)
+* [ZOZolaZoomTransition](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition)
+* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)
+* [MHNatGeoViewControllerTransition](https://github.com/michaelhenry/MHNatGeoViewControllerTransition)
+* [KYPushTransition](https://github.com/KittenYang/KYPushTransition)
+* [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition)
 
 ## Code Frameworks
 * [Dotzu](https://github.com/remirobert/Dotzu) - In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
