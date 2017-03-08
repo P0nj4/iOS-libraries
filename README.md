@@ -132,6 +132,7 @@
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
 * [Blue pill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
+* [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - simulate push notifications
 
 
 [back to top](#readme)
