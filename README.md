@@ -115,6 +115,8 @@
 * [Expanding Collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag.
 * [ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller
+* [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design
 
 ## Code Frameworks
 * [Dotzu](https://github.com/remirobert/Dotzu) - In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
