@@ -61,10 +61,13 @@
 * [ScalingCarousel - MAP](https://github.com/superpeteblaze/ScalingCarousel) - ScalingCarousel provides a simple carousel-style collection view. It takes care of cell presentation, scaling each cell as the collection view is scrolled.
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - Customizable TabBarViewController
 * [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS
-* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
 * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
+
+#### UIButton Components
+* [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining
+* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
 
 #### UICollections Components
 * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
@@ -133,6 +136,6 @@
 * [Blue pill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
 * [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - simulate push notifications
-
+* [GodEye](https://github.com/zixun/GodEye) - Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 
 [back to top](#readme)
