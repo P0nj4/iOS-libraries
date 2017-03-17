@@ -99,6 +99,7 @@
 ### Animations
 * [Stellar](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
+* [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen
 
 
 ### Tutorials
