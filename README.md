@@ -72,6 +72,7 @@
 #### UICollections Components
 * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
 * [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) - A fancy carousel flow layout for UICollectionView on iOS.
+  *[Gliding Collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
   
 #### UITableView Components
 * [Folding Cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
