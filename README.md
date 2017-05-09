@@ -42,6 +42,7 @@
 * [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 * [PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App
 * [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in swift
+* [SwiftIcons](https://github.com/ranesr/SwiftIcons) - Swift Library for Font Icons
 
 ### Color Tools
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift
