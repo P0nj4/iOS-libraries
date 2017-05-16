@@ -23,10 +23,11 @@
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 * [Twitter_Post](https://github.com/csontosgabor/Twitter_Post) - Custom Twitter Post View Controller
 
-
 ### Effects
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Nice effect when dragging a cell to show more options
 * [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift
+* [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
+
 
 ### Tools
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - Edit and drag elements on the UI meanwhile the app is running
@@ -55,6 +56,7 @@
 * [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that is used to create beautiful applications
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 * [Persei](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View. Written in Swift
 * [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX!
@@ -68,6 +70,7 @@
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - photo multiple phassets picker for iOS lib. like a facebook
 * [Material](https://github.com/CosmicMind/Material) - An animation and graphics framework for Material Design in Swift
+* [StackScrollView](https://github.com/muukii/StackScrollView) - 📋 iOS Form UI Builder in Swift (powered by UICollectionView)
 
 #### UIButton Components
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining
@@ -111,7 +114,7 @@
 * [CustomizePullToRefresh](https://github.com/Yalantis/PullToRefresh) - Steps to make your own Pull To Refresh
 * [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 * [A GUIDE TO XCODE UI TEST](https://blog.metova.com/guide-xcode-ui-test/)
-* [YouTubeClone](https://github.com/VamshiIITBHU14/YouTubeClone) - This project is a clone of YouTube.
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 
 
 ## Transitions
