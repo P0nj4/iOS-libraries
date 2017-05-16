@@ -67,6 +67,7 @@
 * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - photo multiple phassets picker for iOS lib. like a facebook
+* [Material](https://github.com/CosmicMind/Material) - An animation and graphics framework for Material Design in Swift
 
 #### UIButton Components
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining
@@ -110,6 +111,7 @@
 * [CustomizePullToRefresh](https://github.com/Yalantis/PullToRefresh) - Steps to make your own Pull To Refresh
 * [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 * [A GUIDE TO XCODE UI TEST](https://blog.metova.com/guide-xcode-ui-test/)
+* [YouTubeClone](https://github.com/VamshiIITBHU14/YouTubeClone) - This project is a clone of YouTube.
 
 
 ## Transitions
