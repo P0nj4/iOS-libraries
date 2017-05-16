@@ -148,5 +148,6 @@
 * [Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
 * [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar) - simulate push notifications
 * [GodEye](https://github.com/zixun/GodEye) - Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
+* [RbSwift](https://draveness.github.io/RbSwift/index.html) - Extensions for Swift with hundreds of handy methods. 
 
 [back to top](#readme)
