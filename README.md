@@ -66,6 +66,7 @@
 * [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures
 * [Quick chat](https://github.com/aslanyanhaik/Quick-Chat) - Real time chat app written in Swift 3 using Firebase
 * [TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - is an easy to use icon transition kit that allows to smoothly change from one shape to another
+* [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - photo multiple phassets picker for iOS lib. like a facebook
 
 #### UIButton Components
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining
