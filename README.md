@@ -37,6 +37,7 @@
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 * [AlertHelperKit](https://github.com/keygx/AlertHelperKit) - UIAlertController helper library in Swift
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications
+* [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library!
 
 ### Image Tools
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image
