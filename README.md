@@ -75,6 +75,7 @@
 #### UIButton Components
 * [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Button with loading animation included
+* [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 
 #### UICollections Components
 * [ADLivelyCollectionView](http://applidium.github.io/ADLivelyCollectionView/) - add custom animations to any UICollectionView
